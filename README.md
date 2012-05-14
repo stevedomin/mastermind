@@ -10,7 +10,7 @@ A mastermind game built with Node.js, socket.io and backbone.
 ### Dependencies
 * Redis
 
-### To install
+## To install
 
 ```
 git clone https://github.com/stevedomin/masterpliz.git
