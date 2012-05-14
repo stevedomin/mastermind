@@ -1,0 +1,54 @@
+.form-actions {
+  margin-bottom: 0px !important;
+}
+.peg-line {
+  margin-top: 5px;
+}
+.badge {
+  padding: 6px 12px 6px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+}
+select {
+  width: 100%;
+}
+.popover-inner {
+  width: 304px;
+}
+.peg-g {
+  background-color: #42c200;
+}
+.peg-e {
+  background-color: #ff00ff;
+}
+.peg-t {
+  background-color: #00ffff;
+}
+.peg-p {
+  background-color: #ac0ce8;
+}
+.peg-l {
+  background-color: #1025ff;
+}
+.peg-i {
+  background-color: #ff0000;
+}
+.peg-z {
+  background-color: #ff8c01;
+}
+.peg-y {
+  background-color: #ffcb0d;
+}
+#waiting {
+  text-align: center;
+}
+#spinner-container {
+  height: 120px;
+}
+.hero-unit {
+  margin-top: 30px;
+}
+.peg {
+  display: inline-block;
+}
